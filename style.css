@@ -1,1 +1,11 @@
-
+body {
+  background-color: #111;
+    text-align: center;
+}
+h1 {
+  color: #1ff;
+}
+img {
+  width: 300;
+  height: 300;
+}
