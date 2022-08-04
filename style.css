@@ -1,6 +1,7 @@
 body {
   background-color: #a13;
   text-align: center;
+  user-select: none;
 }
 h1 {
   color: #1ca;
