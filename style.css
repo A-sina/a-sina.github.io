@@ -5,26 +5,26 @@ body {
 h1 {
   color: #1ca;
 }
-#avatar {
+.avatar {
   width: 300;
   height: 300;
   border-radius: 50%;
   margin-top: 60;
   user-select: none;
 }
-#github{
+.github{
   width: 50;
   height: 50;
   border-radius: 50%;
   user-select: none;
 }
-#whatsapp{
+.whatsapp{
   width: 50;
   height: 50;
   border-radius: 50%;
   user-select: none;
 }
-#telegram
+.telegram
 {
   width: 50;
   height: 50;
