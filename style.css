@@ -1,11 +1,29 @@
 body {
-  background-color: #111;
-    text-align: center;
+  background-color: #a13;
+  text-align: center;
 }
 h1 {
-  color: #1ff;
+  color: #1ca;
 }
-img {
+.avatar {
   width: 300;
   height: 300;
+  border-radius: 50%;
+  margin-top: 60;
+}
+.github{
+  width: 50;
+  height: 50;
+  border-radius: 50%;
+}
+.whatsapp{
+  width: 50;
+  height: 50;
+  border-radius: 50%;
+}
+.telegram
+{
+  width: 50;
+  height: 50;
+  border-radius: 50%;
 }
