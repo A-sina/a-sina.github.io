@@ -4,6 +4,7 @@ body {
 }
 a {
 text-decoration: none;
+user-select: none;
 }
 h1 {
   color: #18181c;
