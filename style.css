@@ -13,7 +13,7 @@ h1 {
 .avatar {
   width: 300;
   height: 300;
-  border-radius: 50%;
+  border-radius: 150px;
   margin-top: 60;
   user-select: none;
  
@@ -21,7 +21,7 @@ h1 {
 .icons{
   width: 50;
   height: 50;
-  border-radius: 50%;
+  border-radius: 150px;
   user-select: none;
   possition: absolute;
   padding: 4;
